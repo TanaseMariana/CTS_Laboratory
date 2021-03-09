@@ -1,9 +1,9 @@
 Code Review
 
-Phase 1- Naming conventions
+Phase 1 - Naming conventions
  - rename Clasa1
  - rename Calculeaza and use lowerCamelCase
- - rename, t, s, perioada
+ - rename t, s, perioada
  - rename rezultat
  - rename valoare
  
@@ -12,3 +12,9 @@ Phase 1- Naming conventions
  
  
  - add validations for input values
+ 
+ 
+ Phase 2 - KISS & Single Responsability
+  - simplify the expressions
+  - a function should do only one thing
+  
