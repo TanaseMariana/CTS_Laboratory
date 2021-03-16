@@ -22,5 +22,6 @@ Phase 1 - Naming conventions
   Phase 3 - Single responsibility & Dependency Inversion (DIP)
   - the static final value may change when the marketing strategy will change
   - getFidelityDiscunt() may change when the marketing strategy will change
+  - remove the dependency on the validation rules
   
   
