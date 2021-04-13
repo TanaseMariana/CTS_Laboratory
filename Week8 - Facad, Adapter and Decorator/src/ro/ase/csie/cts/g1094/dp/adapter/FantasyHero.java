@@ -29,7 +29,7 @@ public class FantasyHero extends ACMESuperHero{
 	@Override
 	public void takeAHit(int points) {
 		System.out.println(String.format("%s takes a hit of %d points", name, points));
-		this.lifePoints=points;
+		this.lifePoints-=points;
 		
 	}
 
